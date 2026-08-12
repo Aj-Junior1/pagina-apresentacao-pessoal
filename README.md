@@ -11,8 +11,7 @@ A página também representa um dos primeiros projetos do meu portfólio durante
 
 🛠️ Tecnologias utilizadas
 
-HTML5
-CSS3
+HTML5 e CSS3
 
 📚 O que aprendi
 
