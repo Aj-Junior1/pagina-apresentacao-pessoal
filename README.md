@@ -10,8 +10,10 @@ O projeto foi desenvolvido como uma introdução prática ao desenvolvimento web
 A página também representa um dos primeiros projetos do meu portfólio durante a graduação em Análise e Desenvolvimento de Sistemas.
 
 🛠️ Tecnologias utilizadas
+
 HTML5
 CSS3
+
 📚 O que aprendi
 
 Durante o desenvolvimento, pratiquei a criação da estrutura de uma página utilizando HTML e a estilização dos elementos com CSS.
@@ -20,9 +22,7 @@ Também tive meu primeiro contato prático com a organização de um projeto no 
 
 🌐 Projeto online
 
-Acesse a página:
-
-Ver projeto
+https://aj-junior1.github.io/pagina-apresentacao-pessoal/
 
 📌 Status
 
